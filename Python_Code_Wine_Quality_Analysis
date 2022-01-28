@@ -316,7 +316,7 @@
    ],
    "source": [
     "# Import the excel file using read_excel()\n",
-    "df = pd.read_excel('D:\\Bocconi\\Empirical Methods\\Assignment\\wine_data_assignment.xlsx')\n",
+    "df = pd.read_excel('wine_data.xlsx')\n",
     "df"
    ]
   },
